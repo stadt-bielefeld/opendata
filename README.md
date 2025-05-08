@@ -24,4 +24,4 @@ Falls bereits ein GitHub-Konto vorhanden ist, logg Dich ein und …
 
 ## Kontakt
 
-Digitalisierungsbüro Stadt Bielefeld | Bürge Uprak | Telefon: +49 521 51-23860 | E-Mail: Buerge.Uprak@bielefeld.de
+BIE-Digital Stadt Bielefeld | Bürge Uprak | Telefon: +49 521 51-23860 | E-Mail: Buerge.Uprak@bielefeld.de
